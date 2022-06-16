@@ -16,14 +16,10 @@
             super(name, team, realName);
             this.isMutant = isMutant;
         }
-        get fullName() {
-            return `${this.name} - ${this.realName}`;
-        }
-        set fullName(name) {
-            this.name = name;
+        getFullnameDesdeExmen() {
+            super.teams();
         }
     }
     const wolverine = new Xmen("Pablo", "Azul", true);
-    wolverine.fullName = "Marco";
-    console.log(wolverine.fullName);
+    console.log(wolverine);
 })();
