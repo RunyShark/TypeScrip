@@ -1,0 +1,1 @@
+{"version":3,"file":"parametrosOpcionaneles.js","sourceRoot":"","sources":["parametrosOpcionaneles.ts"],"names":[],"mappings":";AAAA,CAAC,GAAG,EAAE;IACJ,MAAM,MAAM,GAAG,CAAC,SAAiB,EAAE,QAAiB,EAAU,EAAE;QAC9D,OAAO,GAAG,SAAS,IAAI,QAAQ,IAAI,aAAa,EAAE,CAAC;IACrD,CAAC,CAAC;IACF,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,OAAO,CAAC,CAAC,CAAC;AAC/B,CAAC,CAAC,EAAE,CAAC"}
